@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 242,
+    "articles": [
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Paresh Dave",
+    "title": "Google’s App Store Monopoly Ruled Illegal as Jury Sides With Epic",
+    "description": "A jury in San Francisco unanimously found that Google stifled competition for its app store. A judge will now decide on what fixes to require at the company, but appeals could delay the impact of the case for years.",
+    "url": "https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/",
+    "urlToImage": "https://media.wired.com/photos/657779c5115a4e9fcb097567/191:100/w_1280,c_limit/Google-v-Epic-Games-Lawsuit-Business-624873222.jpg",
+    "publishedAt": "2023-12-12T00:41:09Z",
+    "content": "Google violated antitrust laws through deals that stifled competition for its Play mobile app store, a jury in San Francisco unanimously found today. The verdict delivers the first significant US cou… [+1561 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "sam.dunsiger@gmail.com (Samuel Dunsiger)",
+    "title": "Google Messages may soon gain a long-awaited editing feature",
+    "description": "Google Messages has received several updates recently, and now it might be getting the ability to edit sent messages.",
+    "url": "https://www.androidcentral.com/apps-software/google-messages-text-editing-feature-spotted",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Nvh4Py4UT6CG7cx7uQ7ewT-1200-80.jpg",
+    "publishedAt": "2023-12-12T03:47:29Z",
+    "content": "<ul><li>Google might be working on a new feature for its Messages app that will allow users to edit sent text messages.</li><li>The code for the feature was spotted in the app's latest beta version.<… [+2151 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "bradypsnyder@gmail.com (Brady Snyder)",
+    "title": "Some Android tablets will now use desktop mode by default in Chrome",
+    "description": "Google Chrome will use desktop mode by default for \"premium tablets,\" which have at least a 10-inch display and 8GB of RAM.",
+    "url": "https://www.androidcentral.com/tablets/chrome-browser-desktop-mode-default-premium-tablets",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/DBdbyUSsKhuZjtnGVXq2hH-1200-80.jpg",
+    "publishedAt": "2023-12-12T04:24:00Z",
+    "content": "<ul><li>Google Chrome will now display websites in desktop mode by default on \"premium tablets.\"</li><li>Google identifies a premium tablet as one with at least a 10-inch display and 8GB of RAM.</li>… [+2458 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Apple Releases Spatial Video Recording On iPhone 15 Pro",
+    "description": "With iOS 17.2 rolling out today, Apple is giving users the ability to record spatial videos on their iPhone 15 Pro and iPhone 15 Pro Max. \"The new feature lets users film in three dimensions and experience their favorite memories and special moments on Apple …",
+    "url": "https://mobile.slashdot.org/story/23/12/11/2154256/apple-releases-spatial-video-recording-on-iphone-15-pro",
+    "urlToImage": "https://a.fsdn.com/sd/topics/iphone_64.png",
+    "publishedAt": "2023-12-12T00:45:00Z",
+    "content": "In order to create a three-dimensional video, Apple explains that the iPhone uses both the main and ultrawide cameras when recording. This is then saved as a single file within a new album in the Pho… [+854 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Google's App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games",
+    "description": "A jury in San Francisco unanimously found (PDF) that Google violated California and federal antitrust laws through deals that stifled competition for its mobile app store. \"The verdict delivers the first significant US courtroom loss for big tech in the years…",
+    "url": "https://yro.slashdot.org/story/23/12/12/0133226/googles-app-store-ruled-an-illegal-monopoly-as-a-jury-sides-with-epic-games",
+    "urlToImage": "https://a.fsdn.com/sd/topics/court_64.png",
+    "publishedAt": "2023-12-12T02:02:00Z",
+    "content": "The lawsuit next moves to a remedies phase, meaning a judge as soon as the coming weeks will hear arguments about and decide whether to order changes to Google's business practices. Users of devices … [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Katherine Tangalakis-Lippert",
+    "title": "Google loses app store antitrust suit brought by Fortnight in a decision that could cost the tech giant billions",
+    "description": "A jury found Google broke antitrust laws and held a monopoly in its Play Store for Android.",
+    "url": "https://www.businessinsider.com/google-loses-app-store-antitrust-suit-against-fortnite-creators-2023-12",
+    "urlToImage": "https://i.insider.com/6577bd520ec98e92f74e6a07?width=1200&format=jpeg",
+    "publishedAt": "2023-12-12T02:58:53Z",
+    "content": "Google search and SEOAnadolu Agency/Getty Images\r\n<ul><li>A jury on Monday found Google violated antitrust policies in its Play Store for Android systems.</li><li>Fortnite developer Epic Games proved… [+2459 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Jordan Fragen",
+    "title": "Lawyers, leading voices weigh in on Epic antitrust win over Google",
+    "description": "Epic Games has won its lawsuit against Google. Leading voices on antitrust law and policy weighed in on the potential consequences.",
+    "url": "https://venturebeat.com/games/epic-games-antitrust-lawsuit-google-lawyers/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/12/blade-2560x1440-2560x1440-d4e556fb8166.jpeg?w=1200&strip=all",
+    "publishedAt": "2023-12-12T03:00:13Z",
+    "content": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. \r\nThis afternoon, a jury handed Epic Games a win in its antitrust lawsuit… [+2422 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Boing Boing"
+    },
+    "author": "Boing Boing's Shop",
+    "title": "This refurbished 6th Gen Apple iPad makes a great gift this holiday season and it's only $164.97",
+    "description": "TL;DR: Have you finished shopping for everyone on your list? If you're scrambling, we may have a last-minute solution for the techie in your life. The Apple iPad 6th Gen 9.7\" (2018) 32GB – Space Gray (Refurbished: Wi-Fi Only) + Accessories Bundle is on sale f…",
+    "url": "https://boingboing.net/2023/12/11/this-refurbished-6th-gen-apple-ipad-makes-a-great-gift-this-holiday-season-and-its-only-164-97.html",
+    "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/sale_323173_article_image-4.jpg?fit=1200%2C800&ssl=1",
+    "publishedAt": "2023-12-12T01:00:00Z",
+    "content": "TL;DR: Have you finished shopping for everyone on your list? If you're scrambling, we may have a last-minute solution for the techie in your life. The Apple iPad 6th Gen 9.7\" (2018) 32GB – Space Gray… [+1871 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Apple Newsroom"
+    },
+    "author": "John Gruber",
+    "title": "Apple Updates Law Enforcement Guidelines to Require a Judge’s Approval Before Handing Over Push Notification Records",
+    "description": null,
+    "url": "https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf",
+    "urlToImage": null,
+    "publishedAt": "2023-12-12T02:11:23Z",
+    "content": "After Senator Ron Wyden broke the news last week that law enforcement agencies were surveilling people by obtaining their push notification records from Apple and Google, I noted, with disapproval, t… [+377 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Apple's Legal Process Guidelines updated with stricter rules for notifications subpoena",
+    "description": "Government notification surveillance is now more difficult with Apple's latest Legal Process Guidelines requiring court-issued search warrants.NotificationsSenator Ron Wyden revealed that the government used notification data obtained from Apple and Google to…",
+    "url": "https://appleinsider.com/articles/23/12/12/apples-legal-process-guidelines-updated-with-stricter-rules-for-notifications-subpoena",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/57667-117457-IMG_4388-xl.jpg",
+    "publishedAt": "2023-12-12T02:52:09Z",
+    "content": "Notifications\r\nGovernment notification surveillance is now more difficult with Apple's latest Legal Process Guidelines requiring court-issued search warrants.\r\nSenator Ron Wyden revealed that the gov… [+1196 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (AppleInsider Staff)",
+    "title": "Get Apple's high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699",
+    "description": "B&H has a holiday deal delivering $200 off an upgraded M2 Pro Mac mini with 32GB of memory and 1TB of SSD storage. Customers also get free 2-day shipping across the contiguous United States when purchasing from B&H.The M2 Pro Mac mini with 32GB RAM and 1TB st…",
+    "url": "https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/57664-117447-mac-mini-m2-pro-sale-xl.jpg",
+    "publishedAt": "2023-12-12T02:00:53Z",
+    "content": "B&amp;H has a holiday deal delivering $200 off an upgraded M2 Pro Mac mini with 32GB of memory and 1TB of SSD storage. Customers also get free 2-day shipping across the contiguous United States when … [+1750 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Epic win: Jury rules Google Play app store and billing an illegal monopoly",
+    "description": "The Epic versus Google case has reached a significant milestone as the jury ruled that Google violated California and federal antitrust laws, but years of appeals are sure to follow.Epic's 1984 parodyJust three years after Apple's win against Epic for similar…",
+    "url": "https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/57668-117459-IMG_4389-xl.jpg",
+    "publishedAt": "2023-12-12T04:01:49Z",
+    "content": "Epic's 1984 parody\r\nThe Epic versus Google case has reached a significant milestone as the jury ruled that Google violated California and federal antitrust laws, but years of appeals are sure to foll… [+2110 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "“ほぼ”Apple Pencil、ついにエレコムからも登場",
+    "description": "Apple Pencil（第2世代）は1万9880円。さすがにこの値段は気軽に試せません。なので、こんな選択肢も置いておきますね。エレコムから登場するアクティブタッチペン「P-TPWIRE01WH」。ほぼApple Pencilです。",
+    "url": "https://www.gizmodo.jp/2023/12/p-tpwire01wh.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/12/12/2023-12-12aplk00.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-12-12T04:10:00Z",
+    "content": "iPadApple PenciliPad\r\nApple Pencil219880\r\nP-TPWIRE01WHApple Pencil\r\nImage: \r\nApple Pencil2\r\nUSB-CApple PencilApple Pencil\r\nPDF\r\nP-TPWIRE01WHAmazon8,280\r\nApple Pencil23,000\r\nSource:"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "iOS17.2新機能、Vision Pro向け「空間ビデオ」を撮ってみたよ！",
+    "description": "Image:小暮ひさのり空間を録画するってどういうこと？その意味がわかるのは、ちょっと先かもしれませんが、その手段が解放されました。本日からリリースされたiOS17.2。マイナーアップデートと言えど、今回は機能追加が目立つアップデート。さまざまな新機能が増えたり設定の見直しが図られています。そのひとつが「空間ビデオ」の撮影。AppleのAR/MRヘッドセット「AppleVisionPro」で楽しめ",
+    "url": "https://www.gizmodo.jp/2023/12/how-to-shoot-spatial-video-on-iphone-15-pro.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/12/12/2023-12-12kuk00.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-12-12T03:20:00Z",
+    "content": "iOS17.2\r\nAppleAR/MRApple Vision ProiPhone 15 ProiPhone 15 Pro Max\r\nImage: \r\nApple Vision Pro\r\nImage: \r\niPhoneVision Pro\r\niPhone 15 ProiPhone 15 Pro Max\r\nImage: \r\n1080p30fpsVisionProiPhone \r\n1080p30fp… [+80 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Small Business Trends"
+    },
+    "author": "Samantha Lile",
+    "title": "The 15 Best Business Books for Kids",
+    "description": "Check out this roundup of the best business books for kids, perfect for teaching them about entrepreneurship at an early age.",
+    "url": "https://smallbiztrends.com/2023/12/business-books-for-kids.html",
+    "urlToImage": "https://media.smallbiztrends.com/2023/03/Best-Business-Books-for-Kids.png",
+    "publishedAt": "2023-12-12T02:36:07Z",
+    "content": "If you buy something through our links, we may earn money from our affiliate partners. Learn more.\r\nWhether it inspires them to start their own lemonade stands or to dream of making a million dollars… [+21760 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "/FILM"
+    },
+    "author": "staff@slashfilm.com (Eric Vespe)",
+    "title": "Robert Downey Jr. Had One Bizarre Demand For Tony Stark's Iron Man Tech",
+    "description": "Robert Downey Jr. added creative flourishes to Tony Stark in the first Iron Man movie that Marvel kept throughout the course of the franchise.",
+    "url": "https://www.slashfilm.com/1464646/marvel-mcu-robert-downey-jr-iron-man-keyboard-symbols-explained/",
+    "urlToImage": "https://www.slashfilm.com/img/gallery/robert-downey-jr-had-one-bizarre-demand-for-tony-starks-iron-man-tech/l-intro-1701904276.jpg",
+    "publishedAt": "2023-12-12T01:00:00Z",
+    "content": "Either way, once the decision was made to go with the Mayan language symbols, it was up to Visual Designer Ryan Meinerding to execute the design for both physical props and what a digital counterpart… [+1181 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techmeme.com"
+    },
+    "author": null,
+    "title": "The jury in Epic v. Google finds that Google turned its Google Play app store and Google Play Billing service into an illegal monopoly (Sean Hollister/The Verge)",
+    "description": "Sean Hollister / The Verge:\nThe jury in Epic v. Google finds that Google turned its Google Play app store and Google Play Billing service into an illegal monopoly  —  Three years after Fortnite maker Epic Games sued Apple and Google for allegedly running ille…",
+    "url": "https://www.techmeme.com/231211/p24",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/gw_Cxjc_o2ADGUvbWukQADepoAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg",
+    "publishedAt": "2023-12-12T00:29:08Z",
+    "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:35 PM ET, December 11, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+71 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wwwhatsnew.com"
+    },
+    "author": "Fco. José Hidalgo",
+    "title": "Así es Journal, la nueva aplicación de diario que Apple acaba de lanzar oficialmente",
+    "description": "Entre las novedades anunciadas hoy por Apple, donde se incluye el rediseño de la aplicación de Apple TV para ser más intuitiva y fácil de utilizar, y la nueva capacidad de Siri para ayudar a los usuarios a registrar y acceder a sus datos de salud, se encuentr…",
+    "url": "https://wwwhatsnew.com/2023/12/12/asi-es-journal-la-nueva-aplicacion-de-diario-que-apple-acaba-de-lanzar-oficialmente/",
+    "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/12/Apple-Journal-app-2-up.jpg",
+    "publishedAt": "2023-12-12T01:00:18Z",
+    "content": "Entre las novedades anunciadas hoy por Apple, donde se incluye el rediseño de la aplicación de Apple TV para ser más intuitiva y fácil de utilizar, y la nueva capacidad de Siri para ayudar a los usua… [+3060 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Dade Hayes",
+    "title": "Google Violated Antitrust Laws In App Store Case Involving ‘Fortnite’ Publisher & Others, Jury Finds – Update",
+    "description": "UPDATED, 5:30 PM: After a three-year legal battle, a California jury today found that Google violated antitrust laws when it removed Fortnite maker Epic Games and other publishers from its app store. The jurors found in favor of Epic on all of the 11 claims. …",
+    "url": "https://deadline.com/2023/12/apple-bans-fortnite-publisher-epic-games-from-app-store-epic-files-suit-posts-taunting-1984-ad-parody-1203012828/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/AP18079325029330.jpg?w=1024",
+    "publishedAt": "2023-12-12T01:30:00Z",
+    "content": "UPDATED, 5:30 PM: After a three-year legal battle, a California jury today found that Google violated antitrust laws when it removed Fortnitemaker Epic Games and other publishers from its app store. … [+3302 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Kyle Orland",
+    "title": "Google’s Android app store monopoly violates antitrust law, jury finds",
+    "description": "Epic Games scores major court win; judge will decide remedies next month.",
+    "url": "https://arstechnica.com/gaming/2023/12/googles-android-app-store-monopoly-violates-antitrust-law-jury-finds/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/fortnitejump-760x360.png",
+    "publishedAt": "2023-12-12T03:07:20Z",
+    "content": "Enlarge/ Artist's conception of Epic Games CEO Tim Sweeney jumping for joy at news of the verdict.\r\n15\r\nView more stories\r\nWhile Epic's antitrust arguments against Google had many similarities to tho… [+4363 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Atlas"
+    },
+    "author": "Paul McClure",
+    "title": "Ireland wants input on disabling video-sharing platform algorithms",
+    "description": "Coimisiún na Meán, Ireland’s new commission for media regulation, has invited public feedback on the country’s first Online Safety Code for video-sharing platform services. The draft Code includes a recommendation, amongst many others, that platforms consider…",
+    "url": "https://newatlas.com/technology/online-safety-code-ireland-video-sharing-platform-recommender-algorithm/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/a81b9e7/2147483647/strip/true/crop/2000x1050+0+143/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F07%2Fb7%2F1f8eda514b159100f2adef88cdd5%2Fdepositphotos-636529694-l.jpg&na.image_optimisation=0",
+    "publishedAt": "2023-12-12T04:13:05Z",
+    "content": "Coimisiún na Meán, Irelands new commission for media regulation, has invited public feedback on the countrys first Online Safety Code for video-sharing platform services. The draft Code includes a re… [+3266 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "「iOS 17.2」「iPadOS 17.2」が登場、iPhone向け新アプリ「ジャーナル」やProシリーズ向け「空間ビデオ」撮影など",
+    "description": "米アップル（Apple）は、iPhone向けの最新ソフトウェア「iOS 17.2」、iPad向けの最新ソフトウェア「iPadOS 17.2」の提供を開始した。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1553841.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1553/841/100.jpg",
+    "publishedAt": "2023-12-12T03:48:51Z",
+    "content": "AppleiPhoneiOS 17.2iPadiPadOS 17.2 \r\n iPhone \r\n iPhone 15 ProiPhone 15 Pro Max3 \r\n iOS 17.2iPadOS 17.210"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "iPhone 15 Proシリーズ向けの新機能、「空間ビデオ」撮影が登場",
+    "description": "米アップル（Apple）は、「iPhone 15 Pro」「iPhone 15 Pro Max」向けに、「空間ビデオ」の撮影機能の提供を開始した。iOS 17.2から利用できる。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1553863.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1553/863/03.jpg",
+    "publishedAt": "2023-12-12T04:40:52Z",
+    "content": "Copyright ©2018Impress Corporation. All rights reserved."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "アップルからiPhone向け新アプリ「ジャーナル」、日々の記録に役立つ機能を搭載",
+    "description": "米アップル（Apple）は、iPhone向けの新たなアプリとして「ジャーナル」の提供を開始した。iOS 17.2から利用できる。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1553854.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1553/854/01.jpg",
+    "publishedAt": "2023-12-12T04:35:59Z",
+    "content": "Copyright ©2018Impress Corporation. All rights reserved."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "「macOS Sonoma 14.2」公開。自動入力機能や天気、タイマー機能など強化",
+    "description": "Appleは、Mac向けの最新OS「macOS Sonoma 14.2」の提供を開始した。",
+    "url": "https://pc.watch.impress.co.jp/docs/news/1553843.html",
+    "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1553/843/01.jpg",
+    "publishedAt": "2023-12-12T04:00:53Z",
+    "content": "AppleMacOSmacOS Sonoma 14.2 \r\n macOS Sonoma 14.2PDF \r\n 101 \r\n (CVE-2023-42874)(CVE-2023-42919)"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "「iOS 17.2」および「iPadOS 17.2」提供開始。空間ビデオ撮影や自動入力機能強化など",
+    "description": "Appleは、iPhoneおよびiPad向けの最新OS「iOS 17.2」および「iPad 17.2」の提供を開始した。",
+    "url": "https://pc.watch.impress.co.jp/docs/news/1553813.html",
+    "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1553/813/01.jpg",
+    "publishedAt": "2023-12-12T03:17:36Z",
+    "content": "AppleiPhoneiPadOSiOS 17.2iPad 17.2 \r\n iOS 17.2iPhone 15 ProiPhone 15 Pro Max3DVision Pro3D \r\n iPhone 13iPhone 14Qi2 \r\n iPadOS 17.2PDF \r\n OS"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "New York Times",
+    "title": "Epic Games Wins in Antitrust Court Fight Over Google’s Play Store",
+    "description": "After deliberating for a little more than three hours, the nine-person federal jury sided with Epic Games on all 11 questions in a monthlong trial that was the latest turn in a three-year legal battle.",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/epic-games-wins-in-antitrust-court-fight-over-googles-play-store-9064310/",
+    "urlToImage": "https://images.indianexpress.com/2023/12/google.jpg",
+    "publishedAt": "2023-12-12T01:57:48Z",
+    "content": "A jury ruled Monday that Google had violated antitrust laws to extract fees and limit competition from Epic Games and other developers on its Play mobile app store, in a case that could rewrite the r… [+2247 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Appadvice.com"
+    },
+    "author": "Brent Dirks",
+    "title": "Apple Releases iOS/iPadOS 17.2, watchOS 10.2, tvOS 17.2",
+    "description": "Right before the start of the holiday season, Apple has gifted new software. Here’s what’s new in iOS/iPadOS 17.2, tvOS 17.2, and watchOS 10.2.\niOS/iPadOS 17.2With iOS and iPadOS 17.2, you can now take advantage of a new Journal app that allows reflection and…",
+    "url": "https://appadvice.com/post/apple-releases-ios-ipados-17-2-watchos-10-2-tvos-17-2/778840",
+    "urlToImage": "https://handoff-cdn.appadvice.com/wp-content/appadvice-v2-media/2023/12/screenshot-2023-12-11-at-3-53-20e280afpm_b3d6d4d8378cd4f3b55f91860a39d2c1.png",
+    "publishedAt": "2023-12-12T00:08:22Z",
+    "content": "With iOS and iPadOS 17.2, you can now take advantage of a new Journal app that allows reflection and gratitude. Anyone with an iPhone 15 Pro and iPhone 15 Pro Max can also capture Spatial Video that … [+4057 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "cnBeta",
+    "title": "Apple Vision Pro 預計在三月前推出，但蘋果還沒一個好理由說服你為何要跨進虛擬實境",
+    "description": "蘋果曾多次表示 Vision Pro 將於 2024 年「早期」發佈，但並未確定具體日期。現在預計，該產品更有可能在 2 月份發佈。\n隨著蘋果零售業務部門為推出 Apple Vision Pro 眼鏡做準備，有人認為「2024 年初」的實際發佈時間將是二月份。蘋果曾多次表示，蘋果 Vision Pro 將於 2024 年「早期」發佈，但並未確定具體日期。現在預計，該產品更有可能在 2 月份發佈，而不是從今年 1 月份開始發貨。\n在週日的彭博社專欄中，馬克-古爾曼（Mark Gurman）討論了與眼鏡相關的零售工作…",
+    "url": "https://www.techbang.com/posts/111723-apples-vision-pro-is-expected-to-launch-by-march",
+    "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/111723/original/d42cfc45f6ef22af3888f8c319a8dcdf.jpg?1702284456",
+    "publishedAt": "2023-12-12T01:30:00Z",
+    "content": "Apple Vision Pro 2024 Vision Pro 2024 2 1 \r\n-Mark Gurman\r\n 3 \r\n 11 3 \r\n1 Apple Park\r\nMing-Chi Kuo Vision Pro 2027 2024 Vision Pro 400,000-600,000 2024 100 \r\n 2025 Apple Vision Apple Vision Pro \r\n Vis… [+11 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "cnBeta",
+    "title": "iOS 17.2發佈，新增「日誌」應用程式和Apple Music的重大變化",
+    "description": "「日誌」旨在讓使用者發佈一天的內容，並附上照片、影片、錄音、地點等內容。\n蘋果公司向公眾發佈了 iOS 17.2，此次更新增加了期待已久的 Journal 「日誌」應用程式以及 Apple Music 上的改進。iOS 17.2 是自 10 月 25 日推出 iOS 17.1 以來 iOS 17 的第二個主要更新，它已經完成了測試，現在公眾可以將其安裝到自己的 iPhone 上。\n該版本最大的亮點是加入了「日誌」應用程式，而最初的 iOS 17 版本並沒有它，「日誌」旨在讓使用者發佈一天的內容，並附上照片、影片、…",
+    "url": "https://www.techbang.com/posts/111761-ios-172-is-released-adding-major-changes-to-the-journals-app",
+    "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/111761/original/04db90983cf90ed9366e6086dfa0a9a6.jpg?1702352751",
+    "publishedAt": "2023-12-12T03:08:00Z",
+    "content": "iOS 17.2 Journal  Apple Music iOS 17.2 10 25 iOS 17.1 iOS 17 iPhone \r\nApple WWDC 2023 iOS 17 Journal App iOS 17.2 App iPhone App \r\nApp App Podcast\r\nApp\r\nApp App iPhone App Face ID Touch ID App iCloud… [+3 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5google.com"
+    },
+    "author": "Ben Schoon",
+    "title": "Google has an ‘illegal monopoly’ with Play Store & billing, jury finds in Epic case",
+    "description": "The Epic vs Google court battle has come to a verdict, with a jury unanimously voting in Epic’s favor, and declaring that Google has an “illegal monopoly” with the Play Store and Google Play billing.\n more…\nThe post Google has an ‘illegal monopoly’ with Play …",
+    "url": "https://9to5google.com/2023/12/11/google-epic-trial-verdict-monopoly/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Google-Play-Store-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-12-12T01:37:27Z",
+    "content": "The Epic vs Google court battle has come to a verdict, with a jury unanimously voting in Epic’s favor, and declaring that Google has an “illegal monopoly” with the Play Store and Google Play billing.… [+2449 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
+    "title": "New Samsung Leaks Reveal Stunning Galaxy S24 Ultra Design Decision",
+    "description": "A rush of new Galaxy S24 Ultra details have been revealed in new leaks...",
+    "url": "https://www.forbes.com/sites/ewanspence/2023/12/11/samsung-galaxy-s24-ultra-design-performance-s-pen-speaker-volume-new-galaxy-s24-release/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/648ccee90a8219ee0bb1e996/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2023-12-12T00:12:39Z",
+    "content": "Updated December 11: article originally posted December 9.\r\nSamsung's Galaxy S24 Ultra is shaping up to be the leading smartphone of 2024 when it launches early next year. Now we know how the flagshi… [+4532 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Rob Reischel, Contributor, \n Rob Reischel, Contributor\n https://www.forbes.com/sites/robreischel/",
+    "title": "The Good, Bad And Ugly From The Green Bay Packers’ Loss To The New York Giants",
+    "description": "Green Bay turned the ball over three times, Packers quarterback Jordan Love struggled throughout and Giants undrafted rookie quarterback Tommy DeVito carved up Joe Barry’s defense.",
+    "url": "https://www.forbes.com/sites/robreischel/2023/12/11/the-good-bad-and-ugly-from-the-green-bay-packers-loss-to-the-new-york-giants/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6577e4441ac484d3cf3867bc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2023-12-12T04:44:00Z",
+    "content": "Green Bay Packers quarterback Jordan Love (10) fumbles the ball as he is tackled by New York Giants ... [+] safety Jason Pinnock (27) and linebacker Kayvon Thibodeaux (5) Monday night.\r\nAssociated Pr… [+7147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "せっかく買ったのに…Apple Watchを毎日着用する人は所有者の半数以下、使わない人も4分の1超え【やじうまWatch】",
+    "description": "Apple Watchの所有者のうち、毎日着用する人は半数にも満たないことがMMD研究所が行った「Apple Watchの購入と利用に関する調査」で明らかになった。",
+    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1553729.html",
+    "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1553/729/yajiuma-watch_3.png",
+    "publishedAt": "2023-12-12T03:14:00Z",
+    "content": "Apple WatchMMDApple Watch \r\n Apple Watch100745.029.041186914471Apple Watch84.7"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Rodrigo Mozelli",
+    "title": "Após carta de senador, Apple confirma que governos usam notificações para espionar pessoas",
+    "description": "Ordens judiciais exigiam máximo segredo das empresas, impedindo-as de divulgar as solicitações em seus relatórios públicos\nO post Após carta de senador, Apple confirma que governos usam notificações para espionar pessoas apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2023/12/11/pro/apos-carta-de-senador-apple-confirma-que-governos-usam-notificacoes-para-espionar-pessoas/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/espionagem_smartphone.jpg",
+    "publishedAt": "2023-12-12T00:25:10Z",
+    "content": "Em carta aberta do senador estadunidense Ron Wyden, paÃ­ses, como os EUA, utilizam-se de notificaÃ§Ãµes push em smartphones para espionar. Isso valeria tanto para iOS como Android. Mais tarde, a Appl… [+2597 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Rodrigo Mozelli",
+    "title": "Epic Games vence disputa contra o Google; entenda",
+    "description": "Júri decidiu que gigante das buscas monopoliza ilegalmente mercado de lojas de aplicativos por meio da Play Store\nO post Epic Games vence disputa contra o Google; entenda apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2023/12/11/pro/epic-games-vence-disputa-contra-o-google-entenda/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/epic_games.jpg",
+    "publishedAt": "2023-12-12T02:54:06Z",
+    "content": "Nesta segunda-feira (11), a Epic Games venceu aÃ§Ã£o antitruste contra o Google, na qual o jÃºri decidiu que a gigante das buscas monopoliza ilegalmente o mercado de lojas de aplicativos por meio da … [+3583 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "aol.com",
+    "title": "Federal jury says Google’s app store violated antitrust law",
+    "description": "In a momentous decision that could chip away at Google’s firm control of its Android app store, a federal jury said Monday evening that Google’s app marketplace is an illegal monopoly. The verdict in a years-long battle between Epic Games — maker of the hit v…",
+    "url": "https://biztoc.com/x/a507cfb75adc3487",
+    "urlToImage": "https://c.biztoc.com/p/a507cfb75adc3487/s.webp",
+    "publishedAt": "2023-12-12T03:54:10Z",
+    "content": "In a momentous decision that could chip away at Googles firm control of its Android app store, a federal jury said Monday evening that Googles app marketplace is an illegal monopoly.The verdict in a … [+280 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Osnews.com"
+    },
+    "author": "Thom Holwerda",
+    "title": "Apple releases iOS 17.2 and macOS 14.2",
+    "description": "Today, Apple pushed out the public releases of iOS 17.2, iPadOS 17.2, macOS Sonoma 14.2, watchOS 10.2, and tvOS 17.2. iOS 17.2 and iPadOS 17.2’s flagship feature is the new Journal app, which Apple teased when it first introduced iOS 17 earlier. The app mimic…",
+    "url": "https://www.osnews.com/story/138057/apple-releases-ios-17-2-and-macos-14-2/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-12T01:06:05Z",
+    "content": "Today, Apple pushed out the public releases of iOS 17.2, iPadOS 17.2, macOS Sonoma 14.2, watchOS 10.2, and tvOS 17.2.\r\niOS 17.2 and iPadOS 17.2’s flagship feature is the new Journal app, which Apple … [+630 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Geekpark.net"
+    },
+    "author": null,
+    "title": "传微信视频号 GMV 超千亿元；15 亿美元搞合资，TikTok 电商重回印尼；280 万，史上最贵卡西欧 G-Shock 被拍出",
+    "description": "TikTok 与印尼科技公司 GoTo 达成合作发展电商业务，将向合资企业投资超 15 亿美元\n12 月 11 日，TikTok 与印尼科技巨头 GoTo 电商子公司 Tokopedia 发布声明称，TikTok Shop 印尼业务与 Tokopedia 将合并为 PT Tokopedia。TikTok 承诺对 PT Tokopedia 进行价值超 15 亿美元的长期投资，并拥有控股权。\n今年 9 月，印尼贸易部宣布禁止社交媒体平台上的电子商务交易。而该国贸易副部长杰里·桑布阿加近日表示，只要遵守印尼适用的法规和…",
+    "url": "https://www.geekpark.net/news/328856",
+    "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/b9/3f/b93fdb0db7f949882dc2d8c44e2498c2.png",
+    "publishedAt": "2023-12-12T00:01:15Z",
+    "content": "TikTok GoTo 15 \r\n12 11 TikTok GoTo Tokopedia TikTok Shop Tokopedia PT TokopediaTikTok PT Tokopedia 15 \r\n 9 ·TikTok \r\nGMV \r\n LatePostGMV\r\n 2022 7 LatePost\r\n AI \r\n12 11 -AFL-CIO- 1250 60 AI AI \r\n AI AI… [+716 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elotrolado.net"
+    },
+    "author": "Benzo",
+    "title": "Epic Games gana el juicio antimonopolio a Google",
+    "description": "<table><tr><td></td></tr></table>Un jurado de San Francisco ha determinado que Google ha convertido su tienda de aplicaciones Google Play y su servicio de facturación en un monopolio ilegal. La decisión es trascendental, pero su alcance lo conoceremos en 2024…",
+    "url": "https://www.elotrolado.net/noticias/internet/epic-gana-google-antimonopolio",
+    "urlToImage": "https://images.elotrolado.net/headers/upload/f/8/f8680e_fortnite_news.jpg?1200",
+    "publishedAt": "2023-12-12T01:37:56Z",
+    "content": "Un jurado de San Francisco ha determinado que Google ha convertido su tienda de aplicaciones Google Play y su servicio de facturación en un monopolio ilegal. La decisión es trascendental, pero su alc… [+2255 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Eonline.com"
+    },
+    "author": "Gabrielle Chung",
+    "title": "Jennifer Aniston Says Sex Scene With Jon Hamm Was \"Awkward Enough\"",
+    "description": "Jennifer Aniston had a bit of a wake-up call when she filmed her Morning Show sex scene.\nThe Friends alum admitted that she was unfamiliar with the notion of an intimacy coordinator—a crew member...",
+    "url": "https://www.eonline.com/news/1391288/jennifer-aniston-says-sex-scene-with-jon-hamm-was-awkward-enough-without-this",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20231111/cr_1200x1200-231211173054-GettyImages-1428682820.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2023-12-12T03:03:01Z",
+    "content": "Jennifer Aniston had a bit of a wake-up call when she filmed her Morning Show sex scene.\r\nThe Friends alum admitted that she was unfamiliar with the notion of an intimacy coordinatora crew member who… [+921 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Beeper mang iMessage trở lại với Android chỉ 1 ngày sau khi Apple lên tiếng phản đối",
+    "description": "Tiếp tục vụ việc giữa Apple và Beeper, nếu như hôm qua Apple vừa lên tiếng về việc chặn Beeper Mini do thiếu bảo mật và gây nguy hiểm cho dữ liệu của khách hàng thì hôm nay Beeper Mini đã khôi phục được tính năng nhắn tin iMessage trên điện thoại…",
+    "url": "https://tinhte.vn/thread/beeper-mang-imessage-tro-lai-voi-android-chi-1-ngay-sau-khi-apple-len-tieng-phan-doi.3747464/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8212509_Cover-beeper-mini-apple-tinhte-anhtu.jpeg",
+    "publishedAt": "2023-12-12T01:32:22Z",
+    "content": "Source: Apple Insider ForumNh trong bài vit trc, Apple ã a ra tuyên b xác nhn rng h ã chn Beeper Mini. Apple cho bit các th thut mà ng dng s dng gây ra ri ro cho tính bo mt và quyn riêng t ca ngi dùn… [+2236 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (cuhiep), cuhiep",
+    "title": "3 chiếc màn hình đặc biệt thực dụng năm 2023",
+    "description": "Trong hàng chục hay hàng trăm màn hình được ra mắt trong năm 2023 thì mình chấm ra được 3 cái mà theo mình mang lại giá trị trải nghiệm thực sự cho anh em sử dụng để làm việc, mở rộng khả năng làm việc đa nhiệm.",
+    "url": "https://tinhte.vn/thread/3-chiec-man-hinh-dac-biet-thuc-dung-nam-2023.3746388/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8212328_cover-3-man-tinh-tinhte.jpg",
+    "publishedAt": "2023-12-12T02:31:59Z",
+    "content": "Mình ã dùng Samsung Viewinfinity c my tháng và hài lòng v kh nng hin th ca máy. V màu sc, sáng, mt im nh u tt. So vi màn Apple Studio thì gn nh là ngang nhau mi th t màu sc, sáng (t 600 nit) và mn ca… [+2096 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Apple phát hành iOS 17.2 chính thức với ứng dụng Journal mới và nhiều cải tiến khác",
+    "description": "Hiện tại Apple đã chính thức phát hành iOS 17.2 cho tất cả người dùng iPhone, đây là bản cập nhật lớn thứ hai cho hệ điều hành iOS 17 ra mắt vào tháng 9 vừa rồi. Vậy là đã qua tất cả các bản beta rồi, giờ thì lên thẳng chính thức thôi anh em.",
+    "url": "https://tinhte.vn/thread/apple-phat-hanh-ios-17-2-chinh-thuc-voi-ung-dung-journal-moi-va-nhieu-cai-tien-khac.3747461/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8212494_8166235-cover-ios-17.webp",
+    "publishedAt": "2023-12-12T01:05:11Z",
+    "content": "Va ri là mt s thông tin chính v iOS 17.2 và mt s phn mm khác trong h sinh thái ca Apple, hin ti anh em có th cp nht ngay vì kh nng cao ây là bn RC trc ó, vi bn RC trc ó thì mình ã cói tri nghim ri và… [+184 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "【watchOS】新機能と機能改善およびバグ修正を含む「watchOS 10.2」リリース",
+    "description": "Appleが、新機能と機能改善およびバグ修正を含む「watchOS 10.2」をリリースしています。アップデートには充電環境が必要です。 「watchOS 10.2」リリース 「watchOS 10.2」には、以下の新機...\n投稿 【watchOS】新機能と機能改善およびバグ修正を含む「watchOS 10.2」リリース は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/apple-watch/0142284.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2023/12/watchos-102.jpeg",
+    "publishedAt": "2023-12-12T02:00:00Z",
+    "content": "ApplewatchOS 10.2\r\nwatchOS 10.2:\r\nHomePod2HomePod miniApple Watch Series 6Apple Watch Ultra\r\nFitness+\r\niPhoneWatchApple Watch\r\nAppleWeb: https://support.apple.com/ja-jp/HT201222"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PC Gamer"
+    },
+    "author": "Heather Newman",
+    "title": "The GTA 6 trailer is packed with little details: here are some of the most promising",
+    "description": "Is that a blimp I see? And real water physics?",
+    "url": "https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting/",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/pyNiK5m9ptytmf6mWmCqTF-1200-80.jpg",
+    "publishedAt": "2023-12-12T01:09:22Z",
+    "content": "Grand Theft Auto 6's first trailer this week is just 90 seconds long, but analyzing its hidden details and Easter eggs already seems to be a full-time job for some fans.\r\nThe trailer has racked up ov… [+7964 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Apple、｢iTunes Store｣アプリでの映画の販売・レンタルを終了 ｰ ｢Apple TV｣アプリに集約",
+    "description": "iOS 本日、Appleが「iOS 17.2」を正式にリリースしましたが、その「iOS 17.2」の正式リリースと共に「iTunes Store」アプリでの映画コンテンツの販売・レンタルが「Apple TV」アプリに集約されました。 現在、",
+    "url": "https://taisy0.com/2023/12/12/180480.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/12/itsmovie.jpg",
+    "publishedAt": "2023-12-12T01:26:03Z",
+    "content": "iOS\r\nAppleiOS 17.2iOS 17.2iTunes StoreApple TV\r\niPhoneiPadiTunes StoreiTunes/Apple TV\r\niOS 17.2tvOS 17.2\r\niTunes Store"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Fortnite maker Epic Games wins case against Google Play Store",
+    "description": "The ruling on anti-competitive practices deals a blow to a key part of Google's technology empire.",
+    "url": "https://www.bbc.co.uk/news/business-67688720",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10962/production/_131983976_gettyimages-1832710593.jpg",
+    "publishedAt": "2023-12-12T02:33:58Z",
+    "content": "A jury in the United States has found that Google unlawfully made its Play Store dominant over rival app stores.\r\nEpic Games, which owns popular video game Fortnite, sued Google in 2020, accusing it … [+1717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Los Angeles Times"
+    },
+    "author": "Nathan Solis",
+    "title": "'I hate Mexicans,' woman shouts at mother in viral video from Disneyland",
+    "description": "After video of a woman's racist rant in a Disneyland bathroom went viral, a man protesting outside her San Bernardino County home was arrested on suspicion of trespassing, authorities said.",
+    "url": "https://www.latimes.com/california/story/2023-12-11/racist-rant-caught-on-video-inside-disneyland-bathroom",
+    "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8c21fe8/2147483647/strip/true/crop/3000x1575+0+212/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2F97%2F83ea6e34409e84c40ece178b7cea%2Fwk-disneyland-rides-ranked-sleeping-beauty-castle-128.jpg",
+    "publishedAt": "2023-12-12T00:51:53Z",
+    "content": "After a video went viral showing a woman shouting I hate Mexicans in a Disneyland parking lot bathroom, a man was arrested while protesting outside her San Bernardino County home over the weekend, au… [+4074 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "CNET：Apple、Siriの新しいヘルス機能がApple Watchにとって大きな意味を持つ理由を語る",
+    "description": "Siri\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nCNETが、watchOS 10.2から、S9 SiPを搭載したApple Watch Series 9、Apple Watch Ultra 2で、Siriからのリクエストをデバイス上で処理できるようになった事に関して、AppleのApple Watch＆ヘルスケア担当プロダクトマーケティング・シニアディレクターDeidre Hollars Caldbeck氏、プライバシー・…",
+    "url": "https://www.macotakara.jp/Watch/entry-45824.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202312/9201d9bd2d739fae88e427c12f6640e4b7dd3cde18bc92858126587b836570e5.jpg",
+    "publishedAt": "2023-12-12T03:02:48Z",
+    "content": "CNETwatchOS 10.2S9 SiPApple Watch Series 9Apple Watch Ultra 2SiriAppleApple WatchDeidre Hollars CaldbeckKatie Skinner\r\n2023Deidre Hollars Caldbeck\r\nApple Watch Series 9Apple Watch Ultra 2120\r\nSiri"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Apple、「iOS 17.2」および「iPadOS 17.2」を公開 ～新機能「ジャーナル」の導入、自動入力機能の強化など／セキュリティ修正はCVE番号ベースで12件、任意コード実行等に対処",
+    "description": "米Appleは12月11日（現地時間）、「iOS 17.2」および「iPadOS 17.2」をリリースした。「設定」アプリの［一般］－［ソフトウェアアップデート］セクションから手動でアップデートできる。",
+    "url": "https://forest.watch.impress.co.jp/docs/news/1553754.html",
+    "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1553/754/1.jpg",
+    "publishedAt": "2023-12-12T00:26:15Z",
+    "content": "Apple1211iOS 17.2iPadOS 17.2"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Appleが個人データへの脅威を警告 ～過去2年間で26億件の個人情報が漏えい／セキュリティに関する2023年度の調査報告書を公開",
+    "description": "米Appleは12月7日（現地時間）、マサチューセッツ工科大学教授Stuart Madnick博士による、2023年のデータ漏えいに関する調査報告書「The Continued Threat to Personal Data: Key Factors Behind the 2023 Increase」（個人データへの脅威が継続：2023年の増加の主な要因）を公開した。",
+    "url": "https://forest.watch.impress.co.jp/docs/news/1553560.html",
+    "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1553/560/00.jpg",
+    "publishedAt": "2023-12-12T01:03:00Z",
+    "content": "Apple127Stuart Madnick2023The Continued Threat to Personal Data: Key Factors Behind the 2023 Increase2023 \r\n 20132022322620232023920202320222 \r\n 202120222202380 \r\n Apple \r\n AppleApple \r\n AppleiCloudi… [+20 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Apple、WebKitのゼロデイ脆弱性に対処した「iOS 16.7.3」「iPadOS 16.7.3」を公開／Webコンテンツの処理で任意コード実行、機密情報漏えいの恐れ",
+    "description": "米Appleは12月11日（現地時間）、「iOS 16.7.3」および「iPadOS 16.7.3」をリリースした。本アップデートは「iOS 17」「iPadOS 17」へのアップグレードを留保していたり、同バージョンに対応していないデバイス向けのものとなり、重要なセキュリティ修正が含まれている。アップデートの適用はすべてのユーザーに推奨される。",
+    "url": "https://forest.watch.impress.co.jp/docs/news/1553778.html",
+    "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1553/778/01.jpg",
+    "publishedAt": "2023-12-12T01:41:18Z",
+    "content": "Apple1211iOS 16.7.3iPadOS 16.7.3iOS 17iPadOS 17 \r\n CVE8DoSWebKit \r\n WebKitCVE-2023-42917CVE-2023-42916iOS 16.7.1iOS \r\n<ul><li>CVE-2023-42919</li><li>AVECVE-2023-42884</li><li>Find MyCVE-2023-42922</l… [+207 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Google loses antitrust case over Android app store brought by Fortnite maker",
+    "description": "A federal court jury has decided that Google’s Android app store has been protected by anticompetitive barriers that have damaged smartphone consumers and software developers, dealing a blow to a major pillar of a technology empire.",
+    "url": "https://www.nbcnews.com/tech/tech-news/google-loses-antitrust-case-android-app-store-brought-fortnite-maker-rcna129206",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231211-sundar-pichai-google-ac-905p-3eb6c7.jpg",
+    "publishedAt": "2023-12-12T02:08:28Z",
+    "content": "SAN FRANCISCO A federal court jury has decided that Googles Android app store has been protected by anticompetitive barriers that have damaged smartphone consumers and software developers, dealing a … [+5879 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macmagazine.com.br"
+    },
+    "author": "Douglas Nascimento",
+    "title": "Integração da Siri com dados de saúde é restrita a novos Watches; Apple explica",
+    "description": "Com o watchOS 10.2, liberado hoje, o Apple Watch Series 9 e o Apple Watch Ultra 2 — os únicos modelos do relógio inteligente da Apple lançados neste ano — passaram a permitir aos usuários pedir à Siri por dados armazenados no app Saúde. Isso inclui perguntas …",
+    "url": "https://macmagazine.com.br/post/2023/12/11/integracao-da-siri-com-dados-de-saude-e-restrita-a-novos-watches-apple-explica/",
+    "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2023/12/11-siri.png",
+    "publishedAt": "2023-12-12T00:20:31Z",
+    "content": "Com o watchOS 10.2, liberado hoje, o Apple Watch Series 9 e o Apple Watch Ultra 2 os únicos modelos do relógio inteligente da Apple lançados neste ano passaram a permitir aos usuários pedir à Siri po… [+2024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Queerty.com"
+    },
+    "author": "David Hudson",
+    "title": "Ricky Martin shares pic of himself with his dad & now we all know where he gets his good looks",
+    "description": "Now we see where he gets his good looks from! Now we see where he gets his good looks from!",
+    "url": "https://www.queerty.com/ricky-martin-shares-pic-of-himself-with-his-dad-now-we-all-know-where-he-gets-his-good-looks-20231211",
+    "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/09/ricky-martin-2023-shutterstock.jpg?auto=format&auto=compress&fit=crop&gravity=face&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+    "publishedAt": "2023-12-12T01:00:00Z",
+    "content": "Ricky Martin fans love it when the singer and actor shares photos of his family. Usually, its his kids. Yesterday he shared one with his father, alongside a heartfelt caption.\r\nI miss my father. I wi… [+1792 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MobileSyrup"
+    },
+    "author": "Gabrielle Huston",
+    "title": "Apple launches Spatial Video Capture on iPhone 15 Pro models ahead of Apple Vision Pro launch",
+    "description": "As part of the iOS 17.2’s launch, Apple has rolled out Spatial Video Capture on the iPhone 15 Pro and iPhone 15 Pro Max. Spatial Video Capture records with the ultrawide camera and the main camera simultaneously, merging them into one file. The resulting vide…",
+    "url": "https://mobilesyrup.com/2023/12/11/apple-launche-spatial-video-capture-iphone-15-pro-models-ahead-of-apple-vision-pro-launch/",
+    "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2023/12/Apple-iPhone-15-Pro-spatial-video-capture-hero-header-scaled-1.jpg",
+    "publishedAt": "2023-12-12T02:02:07Z",
+    "content": "As part of the iOS 17.2’s launch, Apple has rolled out Spatial Video Capture on the iPhone 15 Pro and iPhone 15 Pro Max.\r\nSpatial Video Capture records with the ultrawide camera and the main camera s… [+1299 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thurrott.com"
+    },
+    "author": "Paul Thurrott",
+    "title": "Epic Wins: Federal Jury Rules That Google Illegally Protected its Play Store Monopoly",
+    "description": "A federal jury needed just four hours to hand Epic Games a stunning legal victory in its antitrust battle against Google.\nThe post Epic Wins: Federal Jury Rules That Google Illegally Protected its Play Store Monopoly appeared first on Thurrott.com.",
+    "url": "https://www.thurrott.com/games/294523/epic-wins-federal-jury-rules-that-google-illegally-protected-its-play-store-monopoly",
+    "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/09/Epic-Games.jpg",
+    "publishedAt": "2023-12-12T01:46:21Z",
+    "content": "A federal jury needed just four hours to hand Epic Games a stunning legal victory in its antitrust battle against Google.\r\n“Victory over Google!” Epic Games CEO Tim Sweeney tweeted.  “After four week… [+2341 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Gen V's Marco Pigossi Goes Shirtless for Steamy Beach Scene with Ciara Bravo (Photos)",
+    "description": "Marco Pigossi was just spotted filming a steamy scene at the beach with co-star Ciara Bravo! The 34-year-old Brazilian actor and the 26-year-old Cherry actress were seen making out during an intimate scene on the beach on Monday (December 11) in Malibu, Calif…",
+    "url": "https://www.justjared.com/2023/12/11/gen-vs-marco-pigossi-goes-shirtless-for-steamy-beach-scene-with-ciara-bravo-photos/",
+    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2023/12/marco-steamy.jpg",
+    "publishedAt": "2023-12-12T04:32:51Z",
+    "content": "Marco Pigossi was just spotted filming a steamy scene at the beach with co-star Ciara Bravo!\r\nThe 34-year-old Brazilian actor and the 26-year-old Cherry actress were seen making out during an intimat… [+784 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "\"Fortnite\"-Entwickler Epic gewinnt Monopol-Prozess gegen Google",
+    "description": "Der US-Videospiele-Entwickler Epic Games (\"Fortnite\") hat einen wichtigen Wettbewerbsprozess gegen den Internetriesen Google gewonnen. Eine Geschworenenjury in der kalifornischen Stadt San Francisco urteilte am Montag, dass Google mit seinem App-Marktplatz Pl…",
+    "url": "https://www.stern.de/news/-fortnite--entwickler-epic-gewinnt-monopol-prozess-gegen-google-34278702.html",
+    "urlToImage": "https://image.stern.de/34278704/t/AV/v1/w1440/r1.7778/-/12--fortniteentwickler-epic-games-gewinnt-prozess-gegen-google---1594e5d972ce80bd.jpg",
+    "publishedAt": "2023-12-12T01:50:45Z",
+    "content": "Der US-Videospiele-Entwickler Epic Games (\"Fortnite\") hat einen wichtigen Wettbewerbsprozess gegen den Internetriesen Google gewonnen. Eine Geschworenenjury in der kalifornischen Stadt San Francisco … [+1950 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "Technik: Porsche Macan E 2024: Suche nach Unterschieden",
+    "description": "Porsche bringt den Macan E in die Spur. Die Technik der Premium Plattform Electric teilt sich der \nZuffenhausener Stromer mit dem Audi Q6 e-tron. Um sich zu unterscheiden, bieten die Stuttgarter einige \nTechnikfeinheiten auf.",
+    "url": "https://www.stern.de/auto/technik--porsche--macan-e-2024-suche-nach-unterschieden-34278646.html",
+    "urlToImage": "https://image.stern.de/34278648/t/a0/v1/w1440/r1.7778/-/12--artikel27828bild01jpg---bcaa223ae9c68d1f.jpg",
+    "publishedAt": "2023-12-12T01:21:34Z",
+    "content": "Porsche bringt den Macan E in die Spur. Die Technik der Premium Plattform Electric teilt sich der \r\n Zuffenhausener Stromer mit dem Audi Q6 e-tron. Um sich zu unterscheiden, bieten die Stuttgarter ei… [+6147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Charean Williams",
+    "title": "Monday Night Football: LT Terron Armstead, S Jevon Holland inactive for Dolphins",
+    "description": "The Dolphins won't have left tackle Terron Armstead (knee/ankle) tonight.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-lt-terron-armstead-s-jevon-holland-inactive-for-dolphins",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4b24bd1/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F08%2Fbfe704a240a3b81cf7f819a2d006%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19795736",
+    "publishedAt": "2023-12-12T00:00:04Z",
+    "content": "The Dolphins wont have left tackle Terron Armstead (knee/ankle) tonight. He is inactive and will miss his seventh game of the season.\r\nKendall Lamm or Kion Smith is expected to start in Monday Night … [+653 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Core i5+16GBメモリ搭載の「MacBook Pro」が74,800円！中古品の期間限定セール",
+    "description": "Appleの13.3型ノートPC「MacBook Pro(MWP72J/A)」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/1553743.html",
+    "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1553/743/asale1.jpg",
+    "publishedAt": "2023-12-12T03:00:00Z",
+    "content": "Apple13.3PCMacBook Pro(MWP72J/A)Qualit\r\n ()C74,80012 \r\n 13.3Retina(2,560×1,600)CPUCore i52.0GHz16GB512GB SSDOSmacOS 10.15 Catalina"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "Jury decides Google's Android app store benefits from anticompetitive barriers",
+    "description": "A federal court jury has decided that Google's Android app store has been protected by anticompetitive barriers that have damaged consumers and developers.",
+    "url": "https://www.cbsnews.com/news/google-android-app-store-anticompetitive-barriers-federal-jury-says/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/11/8d9352dd-cc83-4839-919c-dc4d1fe46a09/thumbnail/1200x630/397f30707c8d8dd9e40de68d88a6ea78/gettyimages-1830666734.jpg?v=07160a3d82bc4d81e93fbc43cb05e8e7",
+    "publishedAt": "2023-12-12T01:22:00Z",
+    "content": "A federal court jury has decided that Google's Android app store has been protected by anticompetitive barriers that have damaged smartphone consumers and software developers, dealing a blow to a maj… [+2373 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Anja Ettel, Laurin Meyer",
+    "title": "Dunkle Wolken über Oracle und das große Öl-Monopoly",
+    "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Anja Ettel und Laurin Meyer über doppeltes Shopping bei Macy’s, spaßbefreite Geschäfte bei Hasbro und Reichwerden mit der Schönheit.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article249002540/Boersen-Podcast-ExxonMobil-Chevron-Occidental-Petroleum-Das-grosse-Oel-Monopoly.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546280/8631359437-ci16x9-w1200/meyer-ettel-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-meyer-ettel-aw.jpg",
+    "publishedAt": "2023-12-12T03:58:24Z",
+    "content": "Außerdem geht es um SAP, Kohls, Nordstrom, Cigna, Humana, Occidental Petroleum, CrownRock, ExxonMobil, Pioneer Natural Resources, Chevron, Hess, Berkshire Hathaway, LOréal, Coty, Estée Lauder, Pfizer… [+870 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Bart van Klaveren",
+    "title": "Apple MacOS 14.2",
+    "description": "Apple heeft macOS 14.2 uitgebracht. In versie 14, bekend als Sonoma en die gratis vanuit de Apple Store opgehaald kan worden, heeft Apple onder meer widgets op de desktop toegevoegd, kun je jezelf projecteren op het beeld wat je deelt in een videogesprek, gee…",
+    "url": "https://tweakers.net/downloads/66942/apple-macos-142.html",
+    "urlToImage": "https://tweakers.net/i/LsrSshVe0Aw5YPykkmaMGglSMQc=/134x134/filters:strip_icc():strip_exif()/i/2006131304.jpeg?f=meta",
+    "publishedAt": "2023-12-12T03:04:00Z",
+    "content": "Apple heeft macOS 14.2 uitgebracht. In versie 14, bekend als Sonoma en die gratis vanuit de Apple Store opgehaald kan worden, heeft Apple onder meer widgets op de desktop toegevoegd, kun je jezelf pr… [+3587 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "iOS 17.2 釋出，加入「日誌」、「空間影片拍攝」功能",
+    "description": "蘋果稍早釋出了最新作業系統版本 iOS 17.2，在這次的更新中，蘋果終於將「日誌」與「空間影片拍攝」兩大功能加入；但要注意的是，「空間影片拍攝」僅適用於 iPhone 15 Pro 系列機款。此外，這次的更新中也為動作按鈕加入了新功能。 日誌 在今年的 iOS 17 當中，蘋果加入了許多與身心靈健...",
+    "url": "https://technews.tw/2023/12/12/ios-17-2/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/12/12103537/iOS-17.2.jpg",
+    "publishedAt": "2023-12-12T02:37:52Z",
+    "content": "iOS 17.2 iPhone 15 Pro \r\niOS 17 \r\n iOS 17.2 \r\n App Podcast App \r\n Journaling Suggestions API App iPhone \r\nWWDC Vision Pro Vision Pro iPhone 15 Pro iPhone 15 Pro Max iOS 17.2 Apple Vision Pro \r\n iPhon… [+268 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Xiaomi 15 и Xiaomi 15 Pro первыми получат Snapdragon 8 Gen 4 с новыми ядрами Nuvia Phoenix. Старшей модели достанется перископический телеобъектив, о чем сообщил Digital Chat Station",
+    "description": "Известный инсайдер Digital Chat Station сообщил первые детали о флагманских смартфонах Xiaomi 15 и Xiaomi 15 Pro, которые должны быть представлены в следующем году. Он подтвердил, что Xiaomi 15 и Xiaomi 15 Pro будут первыми смартфонами, которые будут оснащены…",
+    "url": "https://www.ixbt.com/news/2023/12/12/xiaomi-15-xiaomi-15-pro-snapdragon-8-gen-4-nuvia-phoenix-digital-chat-station.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/11/2/xiaomi-14-preview-01.gnm2fmhw6hxm.%20(1)_large.png",
+    "publishedAt": "2023-12-12T04:18:00Z",
+    "content": "Digital Chat Station Xiaomi 15 Xiaomi 15 Pro, .\r\n , Xiaomi 15 Xiaomi 15 Pro , Qualcomm Snapdragon 8 Gen 4. 3- TSMC 3- Qualcomm.\r\n 3- , Qualcomm Snapdragon 8 Gen4 Arm, Nuvia .\r\n, 2021 , Qualcomm Nuvia… [+147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.com"
+    },
+    "author": "Jade Bryan",
+    "title": "iOS 17.2 Update: These Two Features are Delayed Until 2024",
+    "description": "Apple releases the iOS 17.2 update to iPhones and iPads. It adds many new features, but also delays collaborative playlists and AirPlay for hotels.",
+    "url": "https://www.nextpit.com/apple-ios-17-2-final-update-feature-delay-music-share-airplay",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_iPhone_15_Pro_Max/nextpit_Apple_iPhone_15_Pro_Max_Display.jpg",
+    "publishedAt": "2023-12-12T02:06:18Z",
+    "content": "Namely, collaborative playlists in Apple Music and AirPlay support for hotels are dropped from the iOS 17.2. Apple confirmed that these will be ready by 2024 instead, though they haven't specified in… [+2488 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Huffingtonpost.es"
+    },
+    "author": "Jorge Álvarez",
+    "title": "Epic Games le gana la partida a Google en una batalla judicial que puede cambiar la Play Store para siempre",
+    "description": "<![CDATA[<p>Tres años después de llevar a Apple y a Google a los tribunales, Epic Games ha obtenido una victoria judicial épica que transformará para siempre la Google Play Store, la plataforma de descarga de aplicaciones y videojuegos que usan los teléfonos …",
+    "url": "https://www.huffingtonpost.es/tecnologia/una-victoria-epica-veredicto-cambiar-google-play-store-siempre.html",
+    "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/12/12/cartel-de-google-en-la-entrada-de-las-oficinas-de-la-compania-en-san-francisco.jpeg",
+    "publishedAt": "2023-12-12T03:41:15Z",
+    "content": "Tres años después de llevar a Apple y a Google a los tribunales, Epic Games ha obtenido una victoria judicial épica que transformará para siempre la Google Play Store, la plataforma de descarga de ap… [+3825 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPad mini 6 2021款 8.3英寸 平板电脑 3399元（需用券）",
+    "description": "Apple 苹果 iPad mini 6 2021款 8.3英寸 平板电脑 3399元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/99262996/",
+    "urlToImage": "https://y.zdmimg.com/202109/15/6140e9eebe2248550.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:08:16Z",
+    "content": "iPad mini 6 8.3 LCD 500 \r\n iPad mini 6 CPU 40%GPU 80% A15 \r\niPad mini 6 1200 1200 4K HDR \r\niPad mini 6 iPad Air 4 \r\niPad mini 6 Apple Pencil\r\niPad mini 68.3500nitIDiPadUSB-C20WCPU40%GPU80%5GWi-Fi6\r\ni… [+70 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G手机 7699元",
+    "description": "Apple 苹果 iPhone 15 Pro 5G手机 7699元,什么值得买甄选出天猫精选优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/99295148/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+    "publishedAt": "2023-12-12T04:20:45Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro Max 5G智能手机 512GB 黑色 10799元（需用券）",
+    "description": "玩家之道性能强大，镜头质量出众，续航强劲，支持高速5G网络。京东此款目前活动售价11799元，下单领取1000元优惠券，实付低至10799元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99263926/",
+    "urlToImage": "https://y.zdmimg.com/202312/09/65740cb06a27e5585.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:08:16Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 原色钛金属 7399元（需用券）",
+    "description": "京东自营目前活动售价7999元，下单领取满6000元减600元优惠券，实付低至7399元，享6期免息，近期好价。叠加优惠券：满6000元减600元",
+    "url": "https://www.smzdm.com/p/99290074/",
+    "urlToImage": "https://qny.smzdm.com/202312/12/6577d121b3110148.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T04:05:08Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPad Air 5 10.9英寸平板电脑 64GB WLAN版 4288元（需用券）",
+    "description": "玩家之道轻薄便携，强大性能，全面屏设计。拼多多此款目前活动售价4488元，页面领取200元优惠券，实付低至4288元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99266755/",
+    "urlToImage": "https://y.zdmimg.com/202304/20/64413ae170a952673.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:55:39Z",
+    "content": "iPad Air iPad Pro M1 USB-C 2 Apple Pencil \r\n M1 iPad Air 5 CPU 60% 2 iPad Air 5 12MP Center Stage 64GB256GB iPad Air 5 5G \r\n5 Touch ID iPad Air 5  Liquid Retina 500nit iPad Pro"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "9点开始、百亿补贴：Apple 苹果 iPad 9 2021款 10.2英寸平板电脑 64GB WLAN版 1739元（需用券）",
+    "description": "玩家之道iPad OS伴生系统加持，新支持智能键盘功能，生产力进一步提升。拼多多此款目前活动售价1839元，9点页面领取100元优惠券，实付低至1739元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99266692/",
+    "urlToImage": "https://y.zdmimg.com/202109/16/61430dc2858d92299.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:55:39Z",
+    "content": "iPad 100% 10.2 Retina iPad True Tone Retina True Tone iPad 2021 Apple Pecncil \r\niPad A13 20A13 Bionic iPadOS 15 \r\n iPad  iPad Pro Center Stage iPad 12MP Center Stage Center Stage FaceTime iPadCenter … [+8 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 MacBook Air 2020款 13.3英寸笔记本电脑（M1、8GB、256GB） 4799元（需用券）",
+    "description": "玩家之道强悍M1自研处理器，低功耗相对高性能，无风扇更清净，移动办公头部之选。拼多多此款目前活动售价4949元，页面领取150元优惠券，实付低至4799元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99266512/",
+    "urlToImage": "https://y.zdmimg.com/202107/01/60dd2ba82c5404349.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:55:39Z",
+    "content": "MacBook Air 13.3 2560x1600 Apple M1 MacBook Air 15 18 \r\nM1 5nm 160 M1 8 CPU 8 GPU 25000 4K 3D M1 Mac 16 11 15 \r\n 8GB 16GB 256GB 512GB1TB 2TB 1.29 30W USB-C 1 MacBook Air 3 40Gb/s 6K Wi-Fi 6"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro Max 5G智能手机 1TB 白色钛金属 12999元（需用券）",
+    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价13999元，下单领取1000元优惠券，实付低至12999元。",
+    "url": "https://www.smzdm.com/p/99264222/",
+    "urlToImage": "https://qny.smzdm.com/202309/13/6500b1c2f4c617754.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:08:16Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro Max 5G智能手机 512GB 蓝色钛金属 10799元（需用券）",
+    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价11799元，领取满4000元减1000元优惠券，实付低至10799元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99264049/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b1c475f644441.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:08:16Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 128GB 蓝色钛金属 7149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价7999元，下单领取850元优惠券，实付低至7149元。",
+    "url": "https://www.smzdm.com/p/99264830/",
+    "urlToImage": "https://y.zdmimg.com/202312/11/65766539e31117796.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 512GB 白色钛金属 10149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价10999元，下单领取850元优惠券，实付低至10149元。",
+    "url": "https://www.smzdm.com/p/99264867/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b107b795e9475.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro Max 5G智能手机 1TB 原色钛金属 12999元（需用券）",
+    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价13999元，下单领取1000元优惠券，实付低至12999元。",
+    "url": "https://www.smzdm.com/p/99264289/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b1bd853b58430.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:08:16Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPad 10 2022款 10.9英寸平板电脑 64GB WLAN版 2649元（需用券）",
+    "description": "玩家之道Liquid视网膜显示屏，A14仿生芯片~拼多多此款目前活动售价2749元，页面领取100元优惠券，实付低至2649元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99266806/",
+    "urlToImage": "https://qny.smzdm.com/202210/19/634f643fcc3601371.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:55:39Z",
+    "content": "iPad 2022iPad ProiPad Air10.9Liquid2360*1640264PPI500nit10.9HomeIDIPad 2022LightningUSB-C\r\nA145nm118 20% 10%16A13280%12001200122°12004K240fps\r\n64GB256GBWLAN5GWi-Fi 6iPad 2022Apple PenciliPadOS 16 iPad"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 1TB 白色钛金属 12149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价12999元，下单领取850元优惠券，实付低至12149元。",
+    "url": "https://www.smzdm.com/p/99264973/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b107b795e9475.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 1TB 原色钛金属 12149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价12999元，领取满4000减850元优惠券，实付低至12149元，近期好价，感兴趣的值友可以入手。",
+    "url": "https://www.smzdm.com/p/99265023/",
+    "urlToImage": "https://qny.smzdm.com/202312/09/65740e82fe0d84326.jpg_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 512GB 黑色钛金属 10149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价10999元，下单领取850元优惠券，实付低至10149元。",
+    "url": "https://www.smzdm.com/p/99264964/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b105fc3444180.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G智能手机 512GB 原色钛金属 10149元（需用券）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价10999元，下单领取满4000减850元优惠券，实付到手低至10149元。",
+    "url": "https://www.smzdm.com/p/99264920/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+    "publishedAt": "2023-12-12T00:27:33Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Nick-AzuraFinancial",
+    "title": "Get Rewarded! Receive $250 for You and a Friend for Every Successfully Referred Home Loan Settlement. Join, Refer, Earn! @Simple",
+    "description": "Hi Bargainers,\n\nI hope you've all been keeping well!\n\nWe’ve been working on a partnership program for the last 5 months and are happy to share our soft launch. Having worked with so many of you in the past I thought that this would be a great place to pilot t…",
+    "url": "https://www.ozbargain.com.au/node/819858",
+    "urlToImage": "https://files.ozbargain.com.au/n/58/819858x.jpg?h=52d9bf1d",
+    "publishedAt": "2023-12-12T00:11:34Z",
+    "content": "Hi Bargainers,\r\nI hope you've all been keeping well!\r\nWeve been working on a partnership program for the last 5 months and are happy to share our soft launch. Having worked with so many of you in the… [+1924 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Toodaylab.com"
+    },
+    "author": "吴诗源",
+    "title": "今日消费资讯：Zoff 退出中国大陆市场、Apple Music 国区订阅价格上调",
+    "description": "宇舶表推出 Big Bang 灵魂蓝宝石彩虹腕表12 月 11 日，HUBLOT 宇舶表推出 Big Bang 灵魂蓝宝石彩虹腕表，它采用经典酒桶形表壳搭配明亮彩色宝石，其中表壳以蓝宝石材质打造，直径 42 毫米，表圈则由 54 颗长方形切割的七彩宝石镶嵌而成，同时搭配了 18K 白金材质。它的防水深度是 50 米。同时腕表内置了宇舶表 HUB4700 自动上链镂空式计时机芯，机芯包含 278 个组件，振频 5 赫兹，具备 50 小时的动力储存。腕表只限量发售 50 枚。Zoff 退出中国大陆市场12 月 11 …",
+    "url": "https://www.toodaylab.com/82464",
+    "urlToImage": null,
+    "publishedAt": "2023-12-12T00:30:00Z",
+    "content": "Big Bang \r\n12 11 HUBLOT Big Bang 42 54 18K 50 \r\nHUB4700 278 5 50 50 \r\nZoff \r\n12 11 Zoff 12 \r\n12 2122 23 \r\nBonpoint 2024 \r\n12 11 Bonpoint 2024 Eiko Maekawa \r\n50ml685 150ml735 500ml775 300ml480 \r\nNew B… [+121 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Boston Globe"
+    },
+    "author": "Marianne Mizera",
+    "title": "Nearly 350 Mass. farms to receive $20M in disaster aid",
+    "description": "Three rounds of severe weather took their toll on local farms, beginning in early February when an Arctic blast of subfreezing temperatures wiped out the year’s peach and plum crops.",
+    "url": "https://www.bostonglobe.com/2023/12/11/metro/nearly-350-mass-farms-receive-20m-disaster-aid/",
+    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/loiIgwDoiIrSezFRap8FH1PeXQU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TQDLCGHFVFCPMRYL2RSA7F7YNI.jpg",
+    "publishedAt": "2023-12-12T00:39:03Z",
+    "content": "Three months later, farmers were dealt another blow when temperatures again plunged to below freezing after most fruit blossoms had set, destroying apple, pear, and grape crops.\r\nThe last time farmer… [+1359 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "Feral、Apple Silicon Macをネイティブサポートしたレーシングゲーム「GRID Legends」をMac App Storeでリリース。",
+    "description": "FeralがApple Siliconにネイティブ対応したレーシングゲーム「GRID Legends」をMac App Storeでリリースしています。詳細は以下から。 　イギリスのFeral Interactiveは […]\nThe post Feral、Apple Silicon Macをネイティブサポートしたレーシングゲーム「GRID Legends」をMac App Storeでリリース。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20231212-grid-legends-for-mac-now-available.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2023/12/GRID-Legends-for-Apple-Silicon-Mac-App-Store-2.jpg",
+    "publishedAt": "2023-12-12T02:58:08Z",
+    "content": "FeralApple SiliconGRID LegendsMac App Store\r\nFeral Interactive20231211Electronic ArtsCodemastersGRID Legends12Mac App Store\r\nApple CodemastersGRID LegendsmacOSAppleMac App StoreGRID LegendsM1\r\n GRID™… [+460 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Julie JAMMOT with Alex PIGMAN in Washington",
+    "title": "Fortnite's Epic Games Wins US Court Fight With Google",
+    "description": "Epic Games, the maker of Fortnite, won a major US court battle against Google on Monday when a jury decided that the search engine giant wields illegal monopoly power through its Android app store.",
+    "url": "https://www.ibtimes.com/fortnites-epic-games-wins-us-court-fight-google-3720579",
+    "urlToImage": "https://d.ibtimes.com/en/full/4503126/epic-sued-google-apple-2020-accusing-tech-titans-abusing-control-their-respective-shops.jpg",
+    "publishedAt": "2023-12-12T03:00:34Z",
+    "content": "Epic Games, the maker of Fortnite, won a major US court battle against Google on Monday when a jury decided that the search engine giant wields illegal monopoly power through its Android app store.\r\n… [+3375 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Mediagazer.com"
+    },
+    "author": null,
+    "title": "Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV (Todd Spangler/Variety)",
+    "description": "Todd Spangler / Variety:\nApple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV  —  Starting Monday, the iTunes Store app on iPhone and iPad will redirect u…",
+    "url": "https://mediagazer.com/231211/p25",
+    "urlToImage": "https://variety.com/wp-content/uploads/2023/12/Apple-TV-app-iPadOS-App-Store.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2023-12-12T03:55:06Z",
+    "content": "Mediagazer presents the day's must-read media news on a single page.\r\nThe media business is in tumult: from the production side to\r\nthe distribution side, new technologies are upending the industry.\r… [+416 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digitimes"
+    },
+    "author": "Kevin Wang",
+    "title": "Upcoming launch of Apple's Vision Pro a boon for optics and display suppliers",
+    "description": "After Apple announced its long-rumored Vision Pro mixed reality headset at its WWDC event in June 2023, industry watchers have been eagerly anticipating the device's expected launch late in the first quarter of 2024, which is expected to accelerate growth for…",
+    "url": "https://www.digitimes.com/news/a20231211PD227/apple-vision-pro-display-optics-supplier.html",
+    "urlToImage": "https://img.digitimes.com/newsshow/20231211pd227_files/3_b.jpg",
+    "publishedAt": "2023-12-12T02:00:09Z",
+    "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "FRANCE 24 English"
+    },
+    "author": "NEWS WIRES",
+    "title": "Fortnite's Epic Games wins US antitrust lawsuit against Google",
+    "description": "Epic Games, the maker of Fortnite, won a major US court battle against Google on Monday when a jury decided that the search engine giant wields illegal monopoly power through its Android app store.",
+    "url": "https://www.france24.com/en/americas/20231212-fortnite-s-epic-games-wins-us-antitrust-lawsuit-against-google",
+    "urlToImage": "https://s.france24.com/media/display/e77b684a-98a7-11ee-8629-005056a97e36/w:1280/p:16x9/AP23342617315737.jpg",
+    "publishedAt": "2023-12-12T04:40:10Z",
+    "content": "Epic Games, the maker of Fortnite, won a major US court battle against Google on Monday when a jury decided that the search engine giant wields illegal monopoly power through its Android app store. E… [+3384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Observador.pt"
+    },
+    "author": "Konstantin Hapkemeyer",
+    "title": "Efeitos de rede: a força impulsionadora por trás dos gigantes tecnológicos",
+    "description": "Num mundo no qual plataformas digitais e serviços estão a dominar, é fundamental reconhecer as dinâmicas dos efeitos de rede mas, ao mesmo tempo, prevenir potenciais tendências monopolistas.",
+    "url": "https://observador.pt/opiniao/efeitos-de-rede-a-forca-impulsionadora-por-tras-dos-gigantes-tecnologicos/",
+    "urlToImage": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A525%3A525%3Anowe%3A111%3A33%2Fq%3A86%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F07%2F11172017%2Fkonstantin.jpeg",
+    "publishedAt": "2023-12-12T00:11:34Z",
+    "content": "Amazon, Apple, Facebook, Uber estas empresas são um dos maiores sucessos empreendedores de sempre. A sua capitalização de mercado coletiva de cerca de 5,5 trilhões de dólares é superior ao PIB combin… [+4697 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sopitas.com"
+    },
+    "author": "Andrés Vilchis",
+    "title": "Checa las novedades y funciones que llegan con el iOS 17.2",
+    "description": "Regalito decembrino de parte de Apple. Desde este preciso momento, ya pueden actualizar el sistema operativo de su iPhone y toda la onda… Y para que...\nThe post Checa las novedades y funciones que llegan con el iOS 17.2 appeared first on Sopitas.com.",
+    "url": "https://www.sopitas.com/geek/funciones-ios-17-2-app-diario-novedades-sistema-operativo-iphone-apple/",
+    "urlToImage": "https://www.sopitas.com/wp-content/uploads/2023/12/funciones-ios-17-2-app-diario-novedades-sistema-operativo-iphone-apple-8-1.jpg",
+    "publishedAt": "2023-12-12T02:15:22Z",
+    "content": "Lo que necesitas saber:\r\nLlegó la nueva actualización del iOS y acá te contamos todos los detalles con las funciones que llegarán para tu iPhone y más.\r\nRegalito decembrino de parte de Apple. Desde e… [+5076 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Headlines"
+    },
+    "author": "Brady Snyder",
+    "title": "Apple Vision Pro could be set to arrive earlier than expected",
+    "description": "Apple is gearing up to launch the Vision Pro headset next year, and it could be coming earlier than expected, according to Bloomberg. The company’s mixed-reality headset was announced at WWDC this summer, and Apple said it would release in “early 2024.” But s…",
+    "url": "https://www.androidheadlines.com/2023/12/apple-vision-pro-could-be-set-to-arrive-earlier-than-expected.html",
+    "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Apple-Vision-Pro-Headset.jpg",
+    "publishedAt": "2023-12-12T00:14:43Z",
+    "content": "Apple is gearing up to launch the Vision Pro headset next year, and it could be coming earlier than expected, according to Bloomberg. The companys mixed-reality headset was announced at WWDC this sum… [+2263 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Itc-check.com"
+    },
+    "author": "itc",
+    "title": "【2023年12月17日まで】セブン-イレブン・ファミリーマート・ミニストップ、楽天ギフトカードを1万円以上購入・チャージで楽天ポイント100万円分を山分けプレゼント",
+    "description": "本情報はApple Gift Cardの割引情報ではありません。 　 2023年12月4日(月)〜12月17日(日)の期間中、セブン-イレブン・ファミリーマート・ミニストップで10,000円以上の楽天ギフトカードを購入・...",
+    "url": "https://itc-check.com/rgc-202312/",
+    "urlToImage": "https://itc-check.com/itcwp/wp-content/uploads/2023/12/rgc-202312.jpg",
+    "publishedAt": "2023-12-12T01:02:06Z",
+    "content": "2023124()1217()-10,000100\r\n<table><tr><th></th><td>2023124()1217()</td></tr><tr><th></th><td>20231217()</td></tr><tr><th></th><td>2024131</td></tr></table>-10,000100\r\nID\r\n2024131\r\nApple Gift Card\r\nAp… [+109 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Headlines"
+    },
+    "author": "Justin Diaz",
+    "title": "Google vs Epic verdict says Play Store is an illegal monopoly",
+    "description": "The monumental Google vs Epic case now has an official verdict, and it states that Google’s Play Store is operated as an illegal monopoly. The verdict was a unanimous decision between all jurors in the case, notes The Verge, marking this decision as a landmar…",
+    "url": "https://www.androidheadlines.com/2023/12/google-vs-epic-verdict-says-play-store-is-an-illegal-monopoly.html",
+    "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2023/11/Google-Logo-AH-5-Large-jpeg.webp",
+    "publishedAt": "2023-12-12T01:42:34Z",
+    "content": "The monumental Google vs Epic case now has an official verdict, and it states that Googles Play Store is operated as an illegal monopoly. The verdict was a unanimous decision between all jurors in th… [+2822 chars]"
+    }
+    ]
+    }
